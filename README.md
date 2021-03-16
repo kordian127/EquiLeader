@@ -18,4 +18,4 @@ we can find two equi leaders:
   
 0, because sequences: (4) and (3, 4, 4, 4, 2) have the same leader, whose value is 4.  
 2, because sequences: (4, 3, 4) and (4, 4, 2) have the same leader, whose value is 4.  
-The goal is to count the number of equi leaders.  
+The goal is to count the number of equi leaders.    
